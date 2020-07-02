@@ -14,7 +14,7 @@ public class Main extends JavaPlugin {
 	}
 	
 	@Override
-	public void onEnable() {
+	public void onDisable() {
 		//server off
 	}
 	
